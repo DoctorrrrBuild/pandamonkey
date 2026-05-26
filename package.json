@@ -1,0 +1,36 @@
+{
+  "name": "pandamonkey",
+  "version": "1.0.0",
+  "description": "A runtime prototype patcher for broken JavaScript projects",
+  "main": "pandamonkey.js",
+  "module": "pandamonkey.js",
+  "files": [
+    "pandamonkey.js",
+    "pandamonkey.min.js",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoctorrrrBuild/pandamonkey.git"
+  },
+  "keywords": [
+    "prototype",
+    "patch",
+    "polyfill",
+    "fix",
+    "legacy",
+    "runtime",
+    "monkey-patch",
+    "trim",
+    "javascript"
+  ],
+  "author": "DoctorrrrBuild",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DoctorrrrBuild/pandamonkey/issues"
+  },
+  "homepage": "https://github.com/DoctorrrrBuild/pandamonkey#readme"
+}
