@@ -1,4 +1,3 @@
-[README 4.md](https://github.com/user-attachments/files/28252162/README.4.md)
 # Panda Monkey
 
 A tiny JavaScript utility that extends built-in types with trimming helpers.
